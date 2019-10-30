@@ -1,0 +1,10 @@
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Release\CvEv4.exe.config
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Release\CvEv4.exe
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Release\CvEv4.pdb
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Release\Xceed.Words.NET.dll
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.Form1.resources
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.Properties.Resources.resources
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.csproj.GenerateResource.Cache
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.exe
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.pdb
+C:\Users\Manos\Documents\Visual Studio 2013\Projects\CvEv4\CvEv4\obj\Release\CvEv4.csprojResolveAssemblyReference.cache

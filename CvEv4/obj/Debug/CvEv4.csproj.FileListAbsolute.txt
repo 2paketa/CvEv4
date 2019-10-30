@@ -1,0 +1,11 @@
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Debug\CvEv4.exe.config
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Debug\CvEv4.exe
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Debug\CvEv4.pdb
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.Form1.resources
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.Properties.Resources.resources
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.csproj.GenerateResource.Cache
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.exe
+c:\users\manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.pdb
+C:\Users\Manos\documents\visual studio 2013\Projects\CvEv4\CvEv4\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Manos\Documents\Visual Studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.csprojAssemblyReference.cache
+C:\Users\Manos\Documents\Visual Studio 2013\Projects\CvEv4\CvEv4\obj\Debug\CvEv4.csproj.CopyComplete
